@@ -1,0 +1,2 @@
+unsafe_marker: true
+test: !ruby/hash:Net::FTP {}
