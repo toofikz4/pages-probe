@@ -1,0 +1,2 @@
+probe_marker: "yaml-data-file-loaded-successfully"
+test_value: 42
